@@ -1,5 +1,11 @@
 O pardon me thou bleeding piece of earth
 That I am meek and gentle with these butchers
 Thou art the ruin of the noblest man
+<<<<<<< HEAD
 Who ever lived in the tide of times
 Woe to the hands that shed this costly blood 
+=======
+Who ever lived in the tide of times 
+Woe to the hands that shed this costly blood
+Over thy wounds now do I prophesy
+>>>>>>> Yikes
